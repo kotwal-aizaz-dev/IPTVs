@@ -1,0 +1,39 @@
+#EXTM3U
+
+############# Group 1 - Proxy Channels #############
+
+#EXTINF:-1 tvg-id="skysportsmain" tvg-name="Sky Sports Main" group-title="Proxy Channels",Sky Sports Main
+https://iptv-proxy.thnhhfs2xb.workers.dev/?url=https://7pal.short.gy/SkSpMainE
+
+#EXTINF:-1 tvg-id="skysportsmainuhd" tvg-name="Sky Sports Main UHD" group-title="Proxy Channels",Sky Sports Main UHD
+https://iptv-proxy.thnhhfs2xb.workers.dev/?url=https://7pal.short.gy/SSMEuhd
+
+#EXTINF:-1 tvg-id="skysportsmainuhdalt" tvg-name="Sky Sports Main UHD - ALT" group-title="Proxy Channels",Sky Sports Main UHD - ALT
+https://iptv-proxy.thnhhfs2xb.workers.dev/?url=https://a1xs.vip/2000015
+
+#EXTINF:-1 tvg-id="tnt1" tvg-name="TNT-1" group-title="Proxy Channels",TNT-1
+https://iptv-proxy.thnhhfs2xb.workers.dev/?url=https://7pal.short.gy/tntspts1
+
+#EXTINF:-1 tvg-id="tnt1alt" tvg-name="TNT-1-ALT" group-title="Proxy Channels",TNT-1-ALT
+https://iptv-proxy.thnhhfs2xb.workers.dev/?url=https://a1xs.vip/2000021
+
+#EXTINF:-1 tvg-id="tntultimateuhd" tvg-name="TNT Ultimate UHD" group-title="Proxy Channels",TNT Ultimate UHD
+https://iptv-proxy.thnhhfs2xb.workers.dev/?url=https://7pal.short.gy/TNTUltimate
+
+#EXTINF:-1 tvg-id="skysportsf1uhd" tvg-name="Sky Sports F1 UHD" group-title="Proxy Channels",Sky Sports F1 UHD
+https://iptv-proxy.thnhhfs2xb.workers.dev/?url=https://7pal.short.gy/SSF1uhd
+
+#EXTINF:-1 tvg-id="skysportsf1uhdalt" tvg-name="Sky Sports F1 UHD - ALT" group-title="Proxy Channels",Sky Sports F1 UHD - ALT
+https://iptv-proxy.thnhhfs2xb.workers.dev/?url=https://a1xs.vip/2000016
+
+#EXTINF:-1 tvg-id="foxcricket" tvg-name="Fox Cricket" group-title="Proxy Channels",Fox Cricket
+https://iptv-proxy.thnhhfs2xb.workers.dev/?url=https://a1xs.vip/700001
+
+#EXTINF:-1 tvg-id="foxcricketalt" tvg-name="Fox Cricket - ALT" group-title="Proxy Channels",Fox Cricket - ALT
+https://iptv-proxy.thnhhfs2xb.workers.dev/?url=https://7pal.short.gy/fox501au
+
+
+############# Group 2 - DaddyLive Channels #############
+
+#EXTINF:-1 tvg-id="skysportscricket" tvg-name="Sky Sports Cricket" group-title="DaddyLive Channels",Sky Sports Cricket
+http://tv-proxy.debridio.com/2b25e9898214d60f16b392613185a0a0/restream?channel=uk-skysports-cricket-hd
