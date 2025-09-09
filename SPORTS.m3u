@@ -3,7 +3,7 @@
 ############# Group 1 - Proxy Channels #############
 
 #EXTINF:-1 tvg-id="skysportsmain" tvg-name="Sky Sports Main" group-title="Proxy Channels",Sky Sports Main
-https://usual-beverie-ak-dev-scrap-6b7d41aa.koyeb.app/proxy?url=https://7pal.short.gy/SkSpMainE
+https://akdev02-alt-route.hf.space/proxy/stream?d=https://7pal.short.gy/SkSpMainE&api_password=22042204
 
 #EXTINF:-1 tvg-id="skysportsmainuhd" tvg-name="Sky Sports Main UHD" group-title="Proxy Channels",Sky Sports Main UHD
 https://akdev02-alt-route.hf.space/proxy/stream?d=https://7pal.short.gy/SSMEuhd&api_password=22042204
@@ -12,36 +12,52 @@ https://akdev02-alt-route.hf.space/proxy/stream?d=https://7pal.short.gy/SSMEuhd&
 https://akdev02-alt-route.hf.space/proxy/stream?d=https://a1xs.vip/2000015&api_password=22042204
 
 #EXTINF:-1 tvg-id="tnt1" tvg-name="TNT-1" group-title="Proxy Channels",TNT-1
-https://iptv-proxy.thnhhfs2xb.workers.dev/?url=https://7pal.short.gy/tntspts1
+https://akdev02-alt-route.hf.space/proxy/stream?d=https://7pal.short.gy/tntspts1&api_password=22042204
 
 #EXTINF:-1 tvg-id="tnt1alt" tvg-name="TNT-1-ALT" group-title="Proxy Channels",TNT-1-ALT
-https://iptv-proxy.thnhhfs2xb.workers.dev/?url=https://a1xs.vip/2000021
+https://akdev02-alt-route.hf.space/proxy/stream?d=https://a1xs.vip/2000021&api_password=22042204
 
 #EXTINF:-1 tvg-id="tntultimateuhd" tvg-name="TNT Ultimate UHD" group-title="Proxy Channels",TNT Ultimate UHD
 https://akdev02-alt-route.hf.space/proxy/stream?d=https://7pal.short.gy/TNTUltimate&api_password=22042204
 
 #EXTINF:-1 tvg-id="skysportsf1uhd" tvg-name="Sky Sports F1 UHD" group-title="Proxy Channels",Sky Sports F1 UHD
-https://usual-beverie-ak-dev-scrap-6b7d41aa.koyeb.app/proxy?url=https://7pal.short.gy/SSF1uhd
+https://akdev02-alt-route.hf.space/proxy/stream?d=https://7pal.short.gy/SSF1uhd&api_password=22042204
 
 #EXTINF:-1 tvg-id="skysportsf1uhdalt" tvg-name="Sky Sports F1 UHD - ALT" group-title="Proxy Channels",Sky Sports F1 UHD - ALT
-https://iptv-proxy.thnhhfs2xb.workers.dev/?url=https://a1xs.vip/2000016
+https://akdev02-alt-route.hf.space/proxy/stream?d=https://a1xs.vip/2000016&api_password=22042204
 
 #EXTINF:-1 tvg-id="foxcricket" tvg-name="Fox Cricket" group-title="Proxy Channels",Fox Cricket
 https://akdev02-alt-route.hf.space/proxy/stream?d=https://a1xs.vip/700001&api_password=22042204
 
 #EXTINF:-1 tvg-id="foxcricketalt" tvg-name="Fox Cricket - ALT" group-title="Proxy Channels",Fox Cricket - ALT
-https://iptv-proxy.thnhhfs2xb.workers.dev/?url=https://7pal.short.gy/fox501au
+https://akdev02-alt-route.hf.space/proxy/stream?d=https://7pal.short.gy/fox501au&api_password=22042204
 
 #EXTINF:-1 tvg-id="skysportscricket" tvg-name="Sky Sports Cricket" group-title="Proxy Channels",Sky Sports Cricket
-https://iptv-proxy.thnhhfs2xb.workers.dev/?url=https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMEMyXk85QlQ8RiU6WitLU0RMJQhaK1BdMFpQIDo5MSVaCDdbTkZCJFoNBzA0.m3u8
+https://akdev02-alt-route.hf.space/proxy/stream?d=https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMEMyXk85QlQ8RiU6WitLU0RMJQhaK1BdMFpQIDo5MSVaCDdbTkZCJFoNBzA0.m3u8&api_password=22042204
 
-#EXTINF:-1 tvg-id="willow" tvg-name="Willow" group-title="Proxy Channels",Willow
-https://iptv-proxy.thnhhfs2xb.workers.dev/?url=http://fl3.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+EXTINF:-1 tvg-id="skysports1" tvg-name="Sky Sports 1" group-title="Proxy Channels",Sky Sports 1
+https://akdev02-alt-route.hf.space/proxy/stream?d=https://a1xs.vip/700031&api_password=22042204
 
-#EXTINF:-1 tvg-id="willowalt" tvg-name="Willow Alt" group-title="Proxy Channels",Willow Alt
-https://usual-beverie-ak-dev-scrap-6b7d41aa.koyeb.app/proxy?url=https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
+EXTINF:-1 tvg-id="willow" tvg-name="Willow" group-title="Proxy Channels",Willow
+https://akdev02-alt-route.hf.space/proxy/stream?d=http://fl3.moveonjoy.com/WILLOW_CRICKET/index.m3u8&api_password=22042204
+
 
 ############# Group 2 - DaddyLive Channels #############
 
 #EXTINF:-1 tvg-id="skysportscricket" tvg-name="Sky Sports Cricket" group-title="DaddyLive Channels",Sky Sports Cricket
 http://tv-proxy.debridio.com/2b25e9898214d60f16b392613185a0a0/restream?channel=uk-skysports-cricket-hd
+
+#EXTINF:-1 tvg-id="skysportscricketalt" tvg-name="Sky Sports Cricket Alt" group-title="DaddyLive Channels",Sky Sports Cricket Alt
+https://restream-live.realiptv.to/mrrob4t/dQwhxbJUAu/2192
+
+#EXTINF:-1 tvg-id="skysports1" tvg-name="Sky Sports 1" group-title="DaddyLive Channels",Sky Sports 1
+http://tv-proxy.debridio.com/2b25e9898214d60f16b392613185a0a0/daddylive?url=https://dokko1new.newkso.ru/dokko1/premium588/mono.m3u8
+
+#EXTINF:-1 tvg-id="foxcricket" tvg-name="Fox Cricket" group-title="DaddyLive Channels",Fox Cricket
+http://tv-proxy.debridio.com/2b25e9898214d60f16b392613185a0a0/daddylive?url=https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8
+
+EXTINF:-1 tvg-id="willowextra" tvg-name="Willow Extra" group-title="DaddyLive Channels",Willow Extra
+http://tv-proxy.debridio.com/2b25e9898214d60f16b392613185a0a0/daddylive?url=https://zekonew.newkso.ru/zeko/premium598/mono.m3u8
+
+#EXTINF:-1 tvg-id="skysportsf1" tvg-name="Sky Sports F1" group-title="DaddyLive Channels",Sky Sports F1 
+http://tv-proxy.debridio.com/2b25e9898214d60f16b392613185a0a0/daddylive?url=https://windnew.newkso.ru/wind/premium60/mono.m3u8
