@@ -1,63 +1,38 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
+#EXTM3U add this link to any i.p.t.v players (recommend TiviMate and iMPlayer): https://7pal.short.gy/alxstream or https://bit.ly/sports4kuhd
+#EXTM3U Join Discord server: https://7pal.short.gy/discord
+#EXTM3U Disclaimer: Links were collected by the bot on the internet like Google did. For legal issues, please contact appropriate media file owners/hosters.
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="",🌍 Intro 🌍
+https://7pal.short.gy/intro
 
-############# Group 1 - Proxy Channels #############
-
-#EXTINF:-1 tvg-id="skysportsmain" tvg-name="Sky Sports Main" group-title="Proxy Channels",Sky Sports Main
-https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy/stream?d=https://7pal.short.gy/SkSpMainE&api_password=22042204
-
-#EXTINF:-1 tvg-id="skysportsmainuhd" tvg-name="Sky Sports Main UHD" group-title="Proxy Channels",Sky Sports Main UHD
-https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy/stream?d=https://7pal.short.gy/SSMEuhd&api_password=22042204
-
-#EXTINF:-1 tvg-id="skysportsmainuhdalt" tvg-name="Sky Sports Main UHD - ALT" group-title="Proxy Channels",Sky Sports Main UHD - ALT
-https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy/stream?d=https://a1xs.vip/2000015&api_password=22042204
-
-#EXTINF:-1 tvg-id="tnt1" tvg-name="TNT-1" group-title="Proxy Channels",TNT-1
-https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy/stream?d=https://7pal.short.gy/tntspts1&api_password=22042204
-
-#EXTINF:-1 tvg-id="tnt1alt" tvg-name="TNT-1-ALT" group-title="Proxy Channels",TNT-1-ALT
-https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy/stream?d=https://a1xs.vip/2000021&api_password=22042204
-
-#EXTINF:-1 tvg-id="tntultimateuhd" tvg-name="TNT Ultimate UHD" group-title="Proxy Channels",TNT Ultimate UHD
-https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy/stream?d=https://7pal.short.gy/TNTUltimate&api_password=22042204
-
-#EXTINF:-1 tvg-id="skysportsf1uhd" tvg-name="Sky Sports F1 UHD" group-title="Proxy Channels",Sky Sports F1 UHD
-https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy/stream?d=https://7pal.short.gy/SSF1uhd&api_password=22042204
-
-#EXTINF:-1 tvg-id="skysportsf1uhdalt" tvg-name="Sky Sports F1 UHD - ALT" group-title="Proxy Channels",Sky Sports F1 UHD - ALT
-https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy/stream?d=https://a1xs.vip/2000016&api_password=22042204
-
-#EXTINF:-1 tvg-id="foxcricket" tvg-name="Fox Cricket" group-title="Proxy Channels",Fox Cricket
-https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy/stream?d=https://a1xs.vip/700001&api_password=22042204
-
-#EXTINF:-1 tvg-id="foxcricketalt" tvg-name="Fox Cricket - ALT" group-title="Proxy Channels",Fox Cricket - ALT
-https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy/stream?d=https://7pal.short.gy/fox501au&api_password=22042204
-
-#EXTINF:-1 tvg-id="skysportscricket" tvg-name="Sky Sports Cricket" group-title="Proxy Channels",Sky Sports Cricket
-https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy/stream?d=https://world-proxifier.xyz/tazz/channel/ODBOQ0ZeRUxJUUBPJQhaKzBdMEMyXk85QlQ8RiU6WitLU0RMJQhaK1BdMFpQIDo5MSVaCDdbTkZCJFoNBzA0.m3u8&api_password=22042204
-
-EXTINF:-1 tvg-id="skysports1" tvg-name="Sky Sports 1" group-title="Proxy Channels",Sky Sports 1
-https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy/stream?d=https://a1xs.vip/700031&api_password=22042204
-
-EXTINF:-1 tvg-id="willow" tvg-name="Willow" group-title="Proxy Channels",Willow
-https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy/stream?d=http://fl3.moveonjoy.com/WILLOW_CRICKET/index.m3u8&api_password=22042204
-
-
-############# Group 2 - DaddyLive Channels #############
-
-#EXTINF:-1 tvg-id="skysportscricket" tvg-name="Sky Sports Cricket" group-title="DaddyLive Channels",Sky Sports Cricket
-http://tv-proxy.debridio.com/2b25e9898214d60f16b392613185a0a0/restream?channel=uk-skysports-cricket-hd
-
-#EXTINF:-1 tvg-id="skysportscricketalt" tvg-name="Sky Sports Cricket Alt" group-title="DaddyLive Channels",Sky Sports Cricket Alt
-https://restream-live.realiptv.to/mrrob4t/dQwhxbJUAu/2192
-
-#EXTINF:-1 tvg-id="skysports1" tvg-name="Sky Sports 1" group-title="DaddyLive Channels",Sky Sports 1
-http://tv-proxy.debridio.com/2b25e9898214d60f16b392613185a0a0/daddylive?url=https://dokko1new.newkso.ru/dokko1/premium588/mono.m3u8
-
-#EXTINF:-1 tvg-id="foxcricket" tvg-name="Fox Cricket" group-title="DaddyLive Channels",Fox Cricket
-http://tv-proxy.debridio.com/2b25e9898214d60f16b392613185a0a0/daddylive?url=https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8
-
-EXTINF:-1 tvg-id="willowextra" tvg-name="Willow Extra" group-title="DaddyLive Channels",Willow Extra
-http://tv-proxy.debridio.com/2b25e9898214d60f16b392613185a0a0/daddylive?url=https://zekonew.newkso.ru/zeko/premium598/mono.m3u8
-
-#EXTINF:-1 tvg-id="skysportsf1" tvg-name="Sky Sports F1" group-title="DaddyLive Channels",Sky Sports F1 
-http://tv-proxy.debridio.com/2b25e9898214d60f16b392613185a0a0/daddylive?url=https://windnew.newkso.ru/wind/premium60/mono.m3u8
+--- 📺 Sports | 4K UHD
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
+https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy?url=https://7pal.short.gy/SSMEuhd&api_password=22042204
+#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://i.imgur.com/3cW86E5.png" group-title="Sports | 4K UHD",Astro Sports UHD
+https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy?url=https://7pal.short.gy/astrouhd&api_password=22042204
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/eb3S5pZ.png" group-title="Sports | 4K UHD",beIN 4K
+https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy?url=https://7pal.short.gy/bein-uhd&api_password=22042204
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="Sports | 4K UHD",Now Sports 1 4k
+https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy?url=https://7pal.short.gy/nowsport4k&api_password=22042204
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="Sports | 4K UHD",Hub Premier 2 UHD
+https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy?url=https://7pal.short.gy/HubP2uhd&api_password=22042204
+#EXTINF:-1 tvg-id="V.sport.ULTRA.HD.fi" tvg-logo="https://i.imgur.com/Q2qDLpV.png" group-title="Sports | 4K UHD",V Sport UltraHD
+https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy?url=https://7pal.short.gy/VSportUHD&api_password=22042204
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="Sports | 4K UHD",TNT Sport Ultimate
+https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy?url=https://7pal.short.gy/TNTUltimate&api_password=22042204
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="Sports | 4K UHD",ElevenSport1 4K
+https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy?url=https://7pal.short.gy/11sports1&api_password=22042204
+#EXTINF:-1 tvg-id="Prima.4K.ro" tvg-logo="https://i.imgur.com/TrumXXV.png" group-title="Sports | 4K UHD",Prima4K
+https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy?url=https://7pal.short.gy/prima4k&api_password=22042204
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="Sports | 4K UHD",Sky Sports F1 UHD
+https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy?url=https://7pal.short.gy/SSF1uhd&api_password=22042204
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="Sports | 4K UHD",Ziggo Sport UHD
+https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy?url=https://7pal.short.gy/ZiggoSport&api_password=22042204
+#EXTINF:-1 tvg-id="Sport.5.4K.il" tvg-logo="https://pixvid.org/images/2025/01/23/Sport5.png" group-title="Sports | 4K UHD",Sport5_4k
+https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy?url=https://7pal.short.gy/5sport&api_password=22042204
+#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="Sports | 4K UHD",EuroSport 4K 
+https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy?url=https://7pal.short.gy/eusport4k&api_password=22042204
+#EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-logo="https://i.imgur.com/26c7mQb.png" group-title="Sports | 4K UHD",M+LaLiga UHD 
+https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy?url=https://7pal.short.gy/mplusuhd&api_password=22042204
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports | 4K UHD",NESN UHD
+https://mediaflow-proxy-1074830541568.asia-south1.run.app/proxy?url=https://7pal.short.gy/nesnuhd&api_password=22042204
