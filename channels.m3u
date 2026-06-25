@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1,Star 4K
+http://geoiptv.one:8880/live/Ego19572/6ce86df3/579480.ts
+
+#EXTINF:-1,Star 4K BKP / Sky Sports Main Event BKP
+http://geoiptv.one:8880/live/Ego19572/6ce86df3/95513.ts
+
+#EXTINF:-1,Sky Sports Main Event UHD
+http://geoiptv.one:8880/live/Ego19572/6ce86df3/95513.ts
+
+#EXTINF:-1,Sky Sports Cricket
+http://geoiptv.one:8880/live/Ego19572/6ce86df3/136254.ts
