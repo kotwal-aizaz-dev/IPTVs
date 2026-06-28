@@ -1,19 +1,17 @@
 #EXTM3U
-
-#EXTINF:-1,Star 4K
-http://geoiptv.one:8880/live/Ego19572/6ce86df3/579480.ts
-
-#EXTINF:-1,Star 4K BKP / Sky Sports Main Event BKP
-http://geoiptv.one:8880/live/Ego19572/6ce86df3/95513.ts
-
-#EXTINF:-1,Sky Sports Main Event UHD
-http://geoiptv.one:8880/live/Ego19572/6ce86df3/95513.ts
-
-#EXTINF:-1,Sky Sports Cricket
-http://geoiptv.one:8880/live/Ego19572/6ce86df3/136254.ts
-
-#EXTINF:-1,Sky Sports Cricket bkp
-http://geoiptv.one:8880/live/Ego19572/6ce86df3/10129.ts
-
-#EXTINF:-1, tnt sport 1
-http://geoiptv.one:8880/live/Ego19572/6ce86df3/10118.ts
+#EXTINF:-1,UK: SKY Sports Cricket FHD
+http://geoiptv.one:8880/Ego19572/6ce86df3/136254
+#EXTINF:-1,UK: TNT Sport 1 FHD
+http://geoiptv.one:8880/Ego19572/6ce86df3/10118
+#EXTINF:-1,REALD2H  SKY SPORTS 4K / FHD
+http://geoiptv.one:8880/Ego19572/6ce86df3/95513
+#EXTINF:-1,REALD2H STAR 4K 1
+http://geoiptv.one:8880/Ego19572/6ce86df3/134211
+#EXTINF:-1,TNT SPORTS PREMINM 4K
+http://geoiptv.one:8880/Ego19572/6ce86df3/96078
+#EXTINF:-1,TNT SPORTS 1 4K
+http://geoiptv.one:8880/Ego19572/6ce86df3/115610
+#EXTINF:-1,SKY SPORTS MAIN EVENT 4k / FHD
+http://geoiptv.one:8880/Ego19572/6ce86df3/877482
+#EXTINF:-1,REALD2H STAR 4K 2
+http://geoiptv.one:8880/Ego19572/6ce86df3/579480
