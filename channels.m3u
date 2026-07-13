@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="GEO",UK: SKY Sports Cricket FHD
-http://geoiptv.one:8880/Ego19572/6ce86df3/136254
-#EXTINF:-1 group-title="GEO",UK: TNT Sport 1 FHD
-http://geoiptv.one:8880/Ego19572/6ce86df3/10118
-#EXTINF:-1 group-title="GEO",REALD2H  SKY SPORTS 4K / FHD
-http://geoiptv.one:8880/Ego19572/6ce86df3/95513
-#EXTINF:-1 group-title="GEO",REALD2H STAR 4K 1
-http://geoiptv.one:8880/Ego19572/6ce86df3/134211
-#EXTINF:-1 group-title="GEO",TNT SPORTS PREMINM 4K
-http://geoiptv.one:8880/Ego19572/6ce86df3/96078
-#EXTINF:-1 group-title="GEO",TNT SPORTS 1 4K
-http://geoiptv.one:8880/Ego19572/6ce86df3/115610
-#EXTINF:-1 group-title="GEO",SKY SPORTS MAIN EVENT 4k / FHD
-http://geoiptv.one:8880/Ego19572/6ce86df3/877482
-#EXTINF:-1 group-title="GEO",REALD2H STAR 4K 2
-http://geoiptv.one:8880/Ego19572/6ce86df3/579480
 
 #EXTINF:-1 group-title="SSME 4k",SSME 4k supreme 1
 http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:0E:18:47&stream=1608071&extension=ts&play_token=gqsx2zVifH
@@ -22,42 +6,22 @@ http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:0E:18:47&stream=1608071&
 http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:0E:18:47&stream=1471387&extension=ts&play_token=NwSUzH8mfY
 #EXTINF:-1 group-title="SSME 4k",SSME 4k main 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312008&extension=ts&play_token=AL43skflsR
-#EXTINF:-1 group-title="SSME 4k",SSME 4k 8K 1
-http://8kdns.cc:80/play/live.php?mac=00:1A:79:11:87:31&stream=1527598&extension=ts&play_token=6o7U9Mtagq
-#EXTINF:-1 group-title="SSME 4k",SSME 4k 8K 2
-http://8kdns.cc:80/play/live.php?mac=00:1A:79:11:87:31&stream=950402&extension=ts&play_token=Ma271Akd2n
-#EXTINF:-1 group-title="SSME 4k",SSME 4k 8K 3
-http://8kdns.cc:80/play/live.php?mac=00:1A:79:11:87:31&stream=1290248&extension=ts&play_token=hL8KM6aU3B
 #EXTINF:-1 group-title="SSME 4k",SSME 4k line 1
 http://line.nexstreamvx.sbs:80/live/S5EvCA0wfEe1/V570bg5sZs/1905869.ts
+#EXTINF:-1 group-title="SSME 4k",SSME 4K line 2
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:02:8B:80&stream=1312008&extension=ts&play_token=LWRqQBLewx
+#EXTINF:-1 group-title="SSME 4k",SSME 4k line 3
+http://line.nexstreamvx.sbs:80/live/S5EvCA0wfEe1/V570bg5sZs/1608071.ts
+#EXTINF:-1 group-title="SSME 4k",SSME 4k line 4
+http://line.nexstreamvx.sbs:80/live/S5EvCA0wfEe1/V570bg5sZs/1641636.ts
 #EXTINF:-1 group-title="SSME 4k",SSME 4k ab 1
 http://ab-123.cc:80/play/live.php?mac=00:1A:79:D5:10:07&stream=1753227&extension=ts&play_token=GGA7ZzsWTY
-#EXTINF:-1 group-title="SSME 4k",SSME 4k 8K 2
-http://8kdns.cc:80/play/live.php?mac=00:1A:79:11:87:31&stream=1527597&extension=ts&play_token=ZzoyCUfyhc
-#EXTINF:-1 group-title="SSME 4k",SSME 4k 8K 3
-http://8kdns.cc:80/play/live.php?mac=00:1A:79:11:87:31&stream=950400&extension=ts&play_token=l3PmOiiyXI
-#EXTINF:-1 group-title="SSME 4k",SSME 4k 8K 4
-http://8kdns.cc:80/play/live.php?mac=00:1A:79:11:87:31&stream=1290246&extension=ts&play_token=nzmyWn6owc
-#EXTINF:-1 group-title="SSME 4k",SSME 4k line 2
-http://line.nexstreamvx.sbs:80/live/S5EvCA0wfEe1/V570bg5sZs/1608071.ts
-#EXTINF:-1 group-title="SSME 4k",SSME 4k line 3
-http://line.nexstreamvx.sbs:80/live/S5EvCA0wfEe1/V570bg5sZs/1641636.ts
 #EXTINF:-1 group-title="SSME 4k",SSME 4k ab 2
 http://ab-123.cc:80/play/live.php?mac=00:1A:79:D5:10:07&stream=1471387&extension=ts&play_token=Io5tn4e8JM
 #EXTINF:-1 group-title="SSME 4k",SSME 4k ab 3
 http://ab-123.cc:80/play/live.php?mac=00:1A:79:D5:10:07&stream=1608071&extension=ts&play_token=uSDFone7UI
 #EXTINF:-1 group-title="SSME 4k",SSME 4k mag 1
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:A1:F4:1F&stream=1312008&extension=ts&play_token=njnRI9Kx1L
-#EXTINF:-1 group-title="SSME 4k",SSME 4k fastshare 1
-http://fastshare1.com:80/live/9459554321/09755819/384215.ts
-#EXTINF:-1 group-title="SSME 4k",SSME 4K fastshare 2
-http://fastshare1.com:80/live/9459554321/09755819/581305.ts
-#EXTINF:-1 group-title="SSME 4k",Star 4k fastshare 3
-http://fastshare1.com:80/live/9459554321/09755819/333368.ts
-#EXTINF:-1 group-title="SSME 4k",SSME 4K flix 1
-http://filex.me:8080/live/1234567890/1234567890/956620.ts
-#EXTINF:-1 group-title="SSME 4k",SSME 4K line 1
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:02:8B:80&stream=1312008&extension=ts&play_token=LWRqQBLewx
 
 #EXTINF:-1 group-title="SSC",SSC line 1
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:02:8B:80&stream=1311995&extension=ts&play_token=5apvlwiVym
