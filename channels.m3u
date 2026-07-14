@@ -22,6 +22,12 @@ http://ab-123.cc:80/play/live.php?mac=00:1A:79:D5:10:07&stream=1471387&extension
 http://ab-123.cc:80/play/live.php?mac=00:1A:79:D5:10:07&stream=1608071&extension=ts&play_token=uSDFone7UI
 #EXTINF:-1 group-title="SSME 4k",SSME 4k mag 1
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:A1:F4:1F&stream=1312008&extension=ts&play_token=njnRI9Kx1L
+#EXTINF:-1 group-title="SSME 4k",SSME 4k 8k 1
+http://8kdns.cc:80/play/live.php?mac=00:1A:79:11:87:31&stream=1527598&extension=ts&play_token=6o7U9Mtagq
+#EXTINF:-1 group-title="SSME 4k",SSME 4k 8k 2
+http://8kdns.cc:80/play/live.php?mac=00:1A:79:11:87:31&stream=950402&extension=ts&play_token=Ma271Akd2n
+#EXTINF:-1 group-title="SSME 4k",SSME 4k 8k 3
+http://8kdns.cc:80/play/live.php?mac=00:1A:79:11:87:31&stream=1290248&extension=ts&play_token=hL8KM6aU3B
 
 #EXTINF:-1 group-title="SSC",SSC line 1
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:02:8B:80&stream=1311995&extension=ts&play_token=5apvlwiVym
