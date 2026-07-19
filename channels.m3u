@@ -6,6 +6,8 @@ http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:0E:18:47&stream=1608071&
 http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:0E:18:47&stream=1471387&extension=ts&play_token=NwSUzH8mfY
 #EXTINF:-1 group-title="SSME 4k",SSME 4k main 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=1312008&extension=ts&play_token=AL43skflsR
+#EXTINF:-1 group-title="SSME 4k",SSME 4k main 2
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:53:05:29&stream=1312005&extension=ts&play_token=MNYTBzvfH4
 #EXTINF:-1 group-title="SSME 4k",SSME 4k line 1
 http://line.nexstreamvx.sbs:80/live/S5EvCA0wfEe1/V570bg5sZs/1905869.ts
 #EXTINF:-1 group-title="SSME 4k",SSME 4K line 2
