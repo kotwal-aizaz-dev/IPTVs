@@ -41,3 +41,5 @@ http://iptvpro.vision-new.org:80/live/108035/Odjo5yvRwk0UXm2/603461.ts
 
 #EXTINF:-1 group-title="SSC",SSC line 1
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:02:8B:80&stream=1311995&extension=ts&play_token=5apvlwiVym
+#EXTINF:-1 group-title="SSC",SSC ott 1
+http://ott-pro.org:80/live/yy082997/yy389018/215915.ts
